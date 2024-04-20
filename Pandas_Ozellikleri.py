@@ -91,3 +91,5 @@ b=pd.concat([Seri1,yeniSeri])
 
 print(b)
 
+
+print(b)
